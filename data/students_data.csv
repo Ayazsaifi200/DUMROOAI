@@ -1,0 +1,249 @@
+student_id,student_name,grade,class_section,region,subject,homework_assignment,homework_submitted,submission_date,quiz_topic,quiz_score,quiz_date,attendance_percentage,last_updated
+1001,Aarav Sharma,Grade 6,A,East,Hindi,Hindi Grammar Practice,Yes,2025-11-08,Statistics,79,2025-11-06,93,2025-11-12 20:26:32
+1001,Aarav Sharma,Grade 6,A,East,Social Studies,Math Chapter 5 Exercises,Yes,2025-11-05,Ancient History,46,2025-10-07,81,2025-11-12 20:26:32
+1001,Aarav Sharma,Grade 6,A,East,Hindi,Physics Numerical Problems,Yes,2025-10-24,Chemical Bonding,45,2025-11-01,97,2025-11-12 20:26:32
+1001,Aarav Sharma,Grade 6,A,East,English,Geography Map Work,Yes,2025-11-05,Poetry Analysis,50,2025-10-18,78,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Social Studies,Biology Diagrams,Yes,2025-10-13,Plant Biology,Not Taken,2025-10-24,95,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Science,Social Studies Research,No,Not Submitted,Periodic Table,49,2025-11-09,96,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Hindi,English Creative Writing,Yes,2025-11-09,Modern History,51,2025-10-18,83,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Mathematics,Math Problem Solving,No,Not Submitted,Grammar Rules,58,2025-09-30,83,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Social Studies,Literature Review,Yes,2025-10-25,Human Body Systems,74,2025-10-18,83,2025-11-12 20:26:32
+1002,Vivaan Gupta,Grade 8,C,North,Hindi,Hindi Grammar Practice,Yes,2025-10-16,Poetry Analysis,59,2025-11-09,85,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,English,Social Studies Research,Yes,2025-11-05,Statistics,86,2025-10-13,79,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Hindi,English Essay Writing,Yes,2025-10-25,Medieval Period,82,2025-10-15,93,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Science,Geography Map Work,Yes,2025-11-07,Medieval Period,93,2025-11-08,78,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Hindi,Math Problem Solving,Yes,2025-10-21,Plant Biology,69,2025-10-18,94,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Social Studies,Biology Diagrams,Yes,2025-10-25,Modern History,88,2025-11-04,96,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Mathematics,English Creative Writing,Yes,2025-10-22,Geometry Theorems,72,2025-11-01,89,2025-11-12 20:26:32
+1003,Aditya Kumar,Grade 8,A,South,Mathematics,Science Experiment,No,Not Submitted,Chemical Bonding,93,2025-10-31,91,2025-11-12 20:26:32
+1004,Vihaan Singh,Grade 8,B,South,Hindi,English Creative Writing,Yes,2025-10-18,Environmental Science,45,2025-10-04,85,2025-11-12 20:26:32
+1004,Vihaan Singh,Grade 8,B,South,Mathematics,Math Chapter 5 Exercises,Yes,2025-10-31,Environmental Science,96,2025-10-23,82,2025-11-12 20:26:32
+1004,Vihaan Singh,Grade 8,B,South,Social Studies,Hindi Grammar Practice,No,Not Submitted,Cell Biology,Not Taken,2025-10-11,77,2025-11-12 20:26:32
+1004,Vihaan Singh,Grade 8,B,South,Social Studies,English Creative Writing,Yes,2025-10-21,Sentence Formation,55,2025-10-26,91,2025-11-12 20:26:32
+1004,Vihaan Singh,Grade 8,B,South,English,Physics Numerical Problems,No,Not Submitted,Environmental Science,91,2025-09-28,81,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Social Studies,Chemistry Reactions,Yes,2025-11-04,Cell Biology,82,2025-10-07,82,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,English,Hindi Grammar Practice,Yes,2025-10-20,Statistics,Not Taken,2025-11-07,76,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Social Studies,Science Lab Report,Yes,2025-11-03,Statistics,79,2025-11-03,98,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Hindi,Literature Review,Yes,2025-10-17,Sentence Formation,57,2025-11-05,78,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Mathematics,Geography Map Work,Yes,2025-10-28,Modern History,88,2025-10-01,95,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Social Studies,Math Chapter 5 Exercises,Yes,2025-11-01,Poetry Analysis,60,2025-10-30,81,2025-11-12 20:26:32
+1005,Arjun Patel,Grade 9,C,West,Social Studies,Chemistry Reactions,Yes,2025-11-06,Chemical Bonding,100,2025-11-07,89,2025-11-12 20:26:32
+1006,Sai Reddy,Grade 6,A,Central,Science,Science Lab Report,No,Not Submitted,Modern History,71,2025-10-11,90,2025-11-12 20:26:32
+1006,Sai Reddy,Grade 6,A,Central,English,Hindi Story Writing,Yes,2025-11-10,Grammar Rules,69,2025-10-26,89,2025-11-12 20:26:32
+1006,Sai Reddy,Grade 6,A,Central,Science,Physics Numerical Problems,Yes,2025-10-19,Poetry Analysis,90,2025-10-11,79,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,Social Studies,Science Experiment,Yes,2025-10-19,Geometry Theorems,Not Taken,2025-10-05,90,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,Science,Social Studies Research,No,Not Submitted,Grammar Rules,Not Taken,2025-10-10,77,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,Social Studies,Science Lab Report,Yes,2025-10-21,Modern History,52,2025-10-06,82,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,English,Literature Review,Yes,2025-11-09,Plant Biology,81,2025-10-09,85,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,English,Hindi Grammar Practice,Yes,2025-11-01,Ancient History,53,2025-09-30,95,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,Social Studies,Chemistry Reactions,Yes,2025-10-18,Environmental Science,Not Taken,2025-10-13,94,2025-11-12 20:26:32
+1007,Reyansh Agarwal,Grade 8,B,North,English,Science Lab Report,Yes,2025-11-05,Medieval Period,67,2025-11-07,82,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,Mathematics,Science Experiment,Yes,2025-10-17,Statistics,87,2025-10-07,84,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,English,Social Studies Research,Yes,2025-11-08,Environmental Science,80,2025-11-02,83,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,Hindi,Literature Review,Yes,2025-11-01,Ancient History,99,2025-10-26,91,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,English,History Project,No,Not Submitted,Modern History,Not Taken,2025-10-02,88,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,Hindi,Math Chapter 5 Exercises,Yes,2025-10-18,Grammar Rules,61,2025-11-01,98,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,Mathematics,Biology Diagrams,Yes,2025-10-25,Algebra Basics,89,2025-11-02,92,2025-11-12 20:26:32
+1008,Krishna Joshi,Grade 8,B,West,Mathematics,Hindi Story Writing,Yes,2025-10-25,Grammar Rules,47,2025-10-23,86,2025-11-12 20:26:32
+1009,Ishaan Verma,Grade 8,B,South,Science,Geography Map Work,No,Not Submitted,Environmental Science,84,2025-11-02,82,2025-11-12 20:26:32
+1009,Ishaan Verma,Grade 8,B,South,Science,English Creative Writing,No,Not Submitted,Environmental Science,56,2025-10-21,88,2025-11-12 20:26:32
+1009,Ishaan Verma,Grade 8,B,South,Science,History Project,Yes,2025-10-20,Cell Biology,47,2025-10-12,82,2025-11-12 20:26:32
+1010,Shaurya Yadav,Grade 9,C,East,English,Hindi Grammar Practice,Yes,2025-11-05,Plant Biology,100,2025-11-07,83,2025-11-12 20:26:32
+1010,Shaurya Yadav,Grade 9,C,East,Science,Math Problem Solving,Yes,2025-10-21,Modern History,46,2025-11-04,83,2025-11-12 20:26:32
+1010,Shaurya Yadav,Grade 9,C,East,English,Literature Review,No,Not Submitted,Chemical Bonding,Not Taken,2025-10-04,88,2025-11-12 20:26:32
+1010,Shaurya Yadav,Grade 9,C,East,Social Studies,Science Experiment,No,Not Submitted,Plant Biology,77,2025-11-04,87,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,English,Math Chapter 5 Exercises,Yes,2025-10-17,Medieval Period,92,2025-09-30,81,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,English,Physics Numerical Problems,Yes,2025-10-21,Environmental Science,65,2025-09-30,78,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,Science,Biology Diagrams,Yes,2025-10-29,Geometry Theorems,63,2025-10-07,79,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,English,Physics Numerical Problems,Yes,2025-10-30,Statistics,56,2025-10-03,93,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,English,Physics Numerical Problems,Yes,2025-11-11,Chemical Bonding,72,2025-10-05,94,2025-11-12 20:26:32
+1011,Ananya Sharma,Grade 7,C,North,Mathematics,Chemistry Reactions,Yes,2025-10-21,Ancient History,95,2025-11-01,96,2025-11-12 20:26:32
+1012,Diya Gupta,Grade 8,C,North,Social Studies,Math Problem Solving,Yes,2025-10-17,Ancient History,47,2025-10-27,90,2025-11-12 20:26:32
+1012,Diya Gupta,Grade 8,C,North,Hindi,Hindi Story Writing,No,Not Submitted,Sentence Formation,85,2025-10-06,81,2025-11-12 20:26:32
+1012,Diya Gupta,Grade 8,C,North,Science,Chemistry Reactions,Yes,2025-11-07,Statistics,93,2025-11-05,88,2025-11-12 20:26:32
+1012,Diya Gupta,Grade 8,C,North,Mathematics,English Essay Writing,No,Not Submitted,Human Body Systems,48,2025-10-07,82,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,Social Studies,Biology Diagrams,Yes,2025-10-18,Environmental Science,97,2025-10-10,88,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,English,Chemistry Reactions,No,Not Submitted,Human Body Systems,73,2025-10-26,82,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,English,English Creative Writing,No,Not Submitted,Sentence Formation,62,2025-10-14,77,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,Hindi,Hindi Grammar Practice,Yes,2025-11-01,Environmental Science,53,2025-11-02,82,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,Hindi,Science Experiment,Yes,2025-11-05,Cell Biology,66,2025-10-08,89,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,Social Studies,Math Chapter 5 Exercises,Yes,2025-10-29,Plant Biology,82,2025-09-28,75,2025-11-12 20:26:32
+1013,Saanvi Kumar,Grade 9,B,West,Social Studies,Physics Numerical Problems,Yes,2025-10-31,Chemical Bonding,99,2025-10-16,92,2025-11-12 20:26:32
+1014,Aadhya Singh,Grade 10,B,West,Science,History Project,Yes,2025-11-11,Plant Biology,88,2025-10-17,98,2025-11-12 20:26:32
+1014,Aadhya Singh,Grade 10,B,West,Mathematics,Hindi Story Writing,Yes,2025-11-07,Periodic Table,70,2025-10-05,93,2025-11-12 20:26:32
+1014,Aadhya Singh,Grade 10,B,West,English,Science Lab Report,Yes,2025-11-07,Modern History,48,2025-10-26,87,2025-11-12 20:26:32
+1014,Aadhya Singh,Grade 10,B,West,Mathematics,Hindi Grammar Practice,Yes,2025-11-01,Poetry Analysis,62,2025-10-16,83,2025-11-12 20:26:32
+1015,Kavya Patel,Grade 9,A,Central,Science,Geography Map Work,Yes,2025-11-09,Poetry Analysis,47,2025-11-10,82,2025-11-12 20:26:32
+1015,Kavya Patel,Grade 9,A,Central,Science,Hindi Story Writing,Yes,2025-11-07,Ancient History,87,2025-11-04,93,2025-11-12 20:26:32
+1015,Kavya Patel,Grade 9,A,Central,English,Chemistry Reactions,Yes,2025-10-18,Geometry Theorems,83,2025-11-04,80,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Social Studies,Math Problem Solving,No,Not Submitted,Plant Biology,90,2025-10-30,77,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Social Studies,Science Experiment,No,Not Submitted,Ancient History,94,2025-10-23,96,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,English,English Creative Writing,Yes,2025-10-24,Poetry Analysis,Not Taken,2025-10-08,88,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Hindi,Science Lab Report,Yes,2025-11-01,Algebra Basics,97,2025-10-11,78,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Social Studies,Geography Map Work,Yes,2025-10-16,Sentence Formation,72,2025-10-31,98,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Social Studies,Math Problem Solving,Yes,2025-10-17,Environmental Science,75,2025-10-13,88,2025-11-12 20:26:32
+1016,Pihu Reddy,Grade 6,A,East,Hindi,History Project,Yes,2025-11-04,Modern History,62,2025-10-14,82,2025-11-12 20:26:32
+1017,Myra Agarwal,Grade 10,D,East,English,Chemistry Reactions,No,Not Submitted,Grammar Rules,67,2025-10-26,85,2025-11-12 20:26:32
+1017,Myra Agarwal,Grade 10,D,East,Science,Social Studies Research,Yes,2025-10-14,Chemical Bonding,78,2025-10-30,77,2025-11-12 20:26:32
+1017,Myra Agarwal,Grade 10,D,East,Hindi,Science Experiment,Yes,2025-10-25,Poetry Analysis,75,2025-10-01,97,2025-11-12 20:26:32
+1018,Sara Joshi,Grade 9,A,North,Social Studies,Hindi Grammar Practice,Yes,2025-11-04,Chemical Bonding,68,2025-10-12,92,2025-11-12 20:26:32
+1018,Sara Joshi,Grade 9,A,North,English,Geography Map Work,Yes,2025-10-19,Medieval Period,89,2025-10-13,83,2025-11-12 20:26:32
+1018,Sara Joshi,Grade 9,A,North,Science,History Project,Yes,2025-10-19,Ancient History,92,2025-10-08,97,2025-11-12 20:26:32
+1018,Sara Joshi,Grade 9,A,North,English,Hindi Grammar Practice,Yes,2025-10-27,Chemical Bonding,93,2025-10-09,94,2025-11-12 20:26:32
+1018,Sara Joshi,Grade 9,A,North,Social Studies,Science Lab Report,No,Not Submitted,Chemical Bonding,56,2025-10-23,75,2025-11-12 20:26:32
+1019,Aanya Verma,Grade 7,C,North,Social Studies,Biology Diagrams,Yes,2025-11-07,Statistics,76,2025-11-05,75,2025-11-12 20:26:32
+1019,Aanya Verma,Grade 7,C,North,Mathematics,History Project,Yes,2025-10-28,Geometry Theorems,48,2025-10-26,90,2025-11-12 20:26:32
+1019,Aanya Verma,Grade 7,C,North,Science,Hindi Story Writing,Yes,2025-10-27,Cell Biology,88,2025-11-08,79,2025-11-12 20:26:32
+1020,Navya Yadav,Grade 10,C,North,Hindi,Science Lab Report,Yes,2025-10-29,Periodic Table,84,2025-10-28,91,2025-11-12 20:26:32
+1020,Navya Yadav,Grade 10,C,North,Social Studies,Chemistry Reactions,No,Not Submitted,Chemical Bonding,72,2025-10-23,93,2025-11-12 20:26:32
+1020,Navya Yadav,Grade 10,C,North,English,Math Chapter 5 Exercises,Yes,2025-10-19,Cell Biology,58,2025-10-02,81,2025-11-12 20:26:32
+1020,Navya Yadav,Grade 10,C,North,Hindi,Math Problem Solving,Yes,2025-11-04,Grammar Rules,55,2025-11-11,88,2025-11-12 20:26:32
+1021,Aryan Mehta,Grade 10,D,East,English,Hindi Grammar Practice,Yes,2025-11-02,Human Body Systems,49,2025-09-29,82,2025-11-12 20:26:32
+1021,Aryan Mehta,Grade 10,D,East,Social Studies,English Creative Writing,No,Not Submitted,Periodic Table,57,2025-10-15,78,2025-11-12 20:26:32
+1021,Aryan Mehta,Grade 10,D,East,English,Hindi Grammar Practice,Yes,2025-10-13,Chemical Bonding,49,2025-11-08,80,2025-11-12 20:26:32
+1022,Kabir Shah,Grade 10,C,West,Hindi,Chemistry Reactions,Yes,2025-10-20,Plant Biology,77,2025-10-08,90,2025-11-12 20:26:32
+1022,Kabir Shah,Grade 10,C,West,Mathematics,Science Lab Report,Yes,2025-10-14,Plant Biology,83,2025-10-26,75,2025-11-12 20:26:32
+1022,Kabir Shah,Grade 10,C,West,English,Hindi Grammar Practice,No,Not Submitted,Modern History,82,2025-11-10,96,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Hindi,Biology Diagrams,Yes,2025-10-13,Chemical Bonding,82,2025-10-15,95,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Hindi,Science Lab Report,Yes,2025-10-29,Geometry Theorems,51,2025-11-01,85,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Mathematics,Science Experiment,Yes,2025-10-21,Plant Biology,80,2025-11-09,89,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Social Studies,Geography Map Work,Yes,2025-11-08,Poetry Analysis,77,2025-11-11,96,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Hindi,Chemistry Reactions,Yes,2025-11-05,Medieval Period,93,2025-10-11,95,2025-11-12 20:26:32
+1023,Atharv Malhotra,Grade 10,A,South,Hindi,English Creative Writing,Yes,2025-11-03,Medieval Period,63,2025-10-14,97,2025-11-12 20:26:32
+1024,Rudra Sinha,Grade 6,A,Central,Hindi,Science Experiment,Yes,2025-10-25,Algebra Basics,50,2025-10-28,78,2025-11-12 20:26:32
+1024,Rudra Sinha,Grade 6,A,Central,English,Science Lab Report,Yes,2025-11-07,Sentence Formation,63,2025-10-10,97,2025-11-12 20:26:32
+1024,Rudra Sinha,Grade 6,A,Central,Science,Physics Numerical Problems,No,Not Submitted,Sentence Formation,80,2025-11-02,87,2025-11-12 20:26:32
+1024,Rudra Sinha,Grade 6,A,Central,English,Social Studies Research,Yes,2025-10-19,Environmental Science,49,2025-10-25,88,2025-11-12 20:26:32
+1025,Shivansh Kapoor,Grade 10,C,North,Social Studies,Science Experiment,Yes,2025-10-24,Periodic Table,76,2025-11-02,89,2025-11-12 20:26:32
+1025,Shivansh Kapoor,Grade 10,C,North,Science,Chemistry Reactions,Yes,2025-10-25,Poetry Analysis,74,2025-10-22,81,2025-11-12 20:26:32
+1025,Shivansh Kapoor,Grade 10,C,North,Hindi,Literature Review,Yes,2025-10-15,Poetry Analysis,65,2025-10-12,97,2025-11-12 20:26:32
+1025,Shivansh Kapoor,Grade 10,C,North,Science,Physics Numerical Problems,No,Not Submitted,Poetry Analysis,54,2025-10-11,76,2025-11-12 20:26:32
+1025,Shivansh Kapoor,Grade 10,C,North,Social Studies,Biology Diagrams,No,Not Submitted,Geometry Theorems,100,2025-10-14,78,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,Hindi,Hindi Story Writing,Yes,2025-11-07,Cell Biology,61,2025-10-21,94,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,Hindi,Math Problem Solving,Yes,2025-11-01,Modern History,79,2025-10-18,85,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,Mathematics,Hindi Story Writing,Yes,2025-10-23,Cell Biology,88,2025-10-24,82,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,Science,Physics Numerical Problems,No,Not Submitted,Poetry Analysis,100,2025-11-05,89,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,English,Science Experiment,Yes,2025-11-11,Algebra Basics,48,2025-10-24,86,2025-11-12 20:26:32
+1026,Avni Bansal,Grade 9,A,South,Science,Physics Numerical Problems,Yes,2025-10-26,Plant Biology,95,2025-10-31,80,2025-11-12 20:26:32
+1027,Kiara Saxena,Grade 6,D,Central,English,Chemistry Reactions,No,Not Submitted,Grammar Rules,85,2025-10-26,89,2025-11-12 20:26:32
+1027,Kiara Saxena,Grade 6,D,Central,Mathematics,Math Problem Solving,Yes,2025-10-17,Sentence Formation,88,2025-10-08,80,2025-11-12 20:26:32
+1027,Kiara Saxena,Grade 6,D,Central,Hindi,Chemistry Reactions,No,Not Submitted,Periodic Table,72,2025-09-28,83,2025-11-12 20:26:32
+1027,Kiara Saxena,Grade 6,D,Central,English,Hindi Story Writing,Yes,2025-10-30,Modern History,60,2025-10-18,93,2025-11-12 20:26:32
+1028,Riya Bhardwaj,Grade 10,C,East,Hindi,Hindi Story Writing,Yes,2025-11-03,Algebra Basics,88,2025-11-08,94,2025-11-12 20:26:32
+1028,Riya Bhardwaj,Grade 10,C,East,Science,Hindi Story Writing,No,Not Submitted,Chemical Bonding,59,2025-10-04,86,2025-11-12 20:26:32
+1028,Riya Bhardwaj,Grade 10,C,East,Science,Math Problem Solving,Yes,2025-11-03,Statistics,94,2025-09-30,96,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,Hindi,Math Chapter 5 Exercises,Yes,2025-10-19,Grammar Rules,Not Taken,2025-10-24,85,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,English,English Essay Writing,Yes,2025-10-17,Medieval Period,68,2025-10-09,91,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,English,Hindi Story Writing,Yes,2025-10-13,Modern History,96,2025-10-24,98,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,Hindi,English Creative Writing,Yes,2025-11-09,Grammar Rules,59,2025-09-29,98,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,English,Hindi Story Writing,No,Not Submitted,Geometry Theorems,Not Taken,2025-10-17,75,2025-11-12 20:26:32
+1029,Tara Choudhary,Grade 6,A,East,English,Biology Diagrams,Yes,2025-10-31,Statistics,61,2025-10-05,87,2025-11-12 20:26:32
+1030,Zara Goyal,Grade 6,B,West,Mathematics,Literature Review,No,Not Submitted,Medieval Period,84,2025-10-28,95,2025-11-12 20:26:32
+1030,Zara Goyal,Grade 6,B,West,Science,Math Problem Solving,No,Not Submitted,Environmental Science,86,2025-10-16,78,2025-11-12 20:26:32
+1030,Zara Goyal,Grade 6,B,West,Social Studies,Math Chapter 5 Exercises,No,Not Submitted,Chemical Bonding,52,2025-11-05,82,2025-11-12 20:26:32
+1031,Dev Pandey,Grade 7,D,West,Science,Math Problem Solving,No,Not Submitted,Human Body Systems,71,2025-10-05,98,2025-11-12 20:26:32
+1031,Dev Pandey,Grade 7,D,West,English,Social Studies Research,Yes,2025-11-08,Modern History,71,2025-10-25,76,2025-11-12 20:26:32
+1031,Dev Pandey,Grade 7,D,West,English,Hindi Grammar Practice,Yes,2025-11-04,Modern History,88,2025-10-19,92,2025-11-12 20:26:32
+1031,Dev Pandey,Grade 7,D,West,Science,Math Chapter 5 Exercises,Yes,2025-11-05,Cell Biology,97,2025-10-13,77,2025-11-12 20:26:32
+1031,Dev Pandey,Grade 7,D,West,Science,Math Problem Solving,Yes,2025-11-11,Algebra Basics,60,2025-11-03,93,2025-11-12 20:26:32
+1032,Ayaan Tiwari,Grade 6,B,Central,English,Hindi Story Writing,No,Not Submitted,Geometry Theorems,95,2025-10-04,75,2025-11-12 20:26:32
+1032,Ayaan Tiwari,Grade 6,B,Central,Mathematics,Hindi Story Writing,No,Not Submitted,Grammar Rules,96,2025-10-31,78,2025-11-12 20:26:32
+1032,Ayaan Tiwari,Grade 6,B,Central,English,English Essay Writing,Yes,2025-10-17,Poetry Analysis,65,2025-11-10,80,2025-11-12 20:26:32
+1032,Ayaan Tiwari,Grade 6,B,Central,English,Math Chapter 5 Exercises,Yes,2025-10-29,Medieval Period,49,2025-10-12,89,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,English,Hindi Grammar Practice,No,Not Submitted,Algebra Basics,100,2025-09-30,91,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Mathematics,Chemistry Reactions,Yes,2025-11-11,Algebra Basics,99,2025-10-17,88,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Mathematics,Chemistry Reactions,Yes,2025-10-28,Cell Biology,65,2025-10-04,79,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Social Studies,English Essay Writing,Yes,2025-10-22,Periodic Table,65,2025-10-18,94,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Social Studies,History Project,Yes,2025-10-23,Plant Biology,Not Taken,2025-09-28,78,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Hindi,Science Experiment,No,Not Submitted,Plant Biology,59,2025-10-16,85,2025-11-12 20:26:32
+1033,Vedant Sharma,Grade 10,A,West,Science,Physics Numerical Problems,Yes,2025-11-08,Geometry Theorems,87,2025-10-26,86,2025-11-12 20:26:32
+1034,Yash Gupta,Grade 9,A,North,Social Studies,Science Lab Report,Yes,2025-10-19,Human Body Systems,53,2025-10-07,76,2025-11-12 20:26:32
+1034,Yash Gupta,Grade 9,A,North,Mathematics,Biology Diagrams,Yes,2025-10-21,Cell Biology,100,2025-09-30,88,2025-11-12 20:26:32
+1034,Yash Gupta,Grade 9,A,North,Hindi,History Project,Yes,2025-10-31,Cell Biology,58,2025-11-02,96,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Social Studies,Geography Map Work,Yes,2025-11-03,Periodic Table,72,2025-10-07,94,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Mathematics,Math Problem Solving,Yes,2025-11-11,Periodic Table,98,2025-09-28,83,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Science,English Essay Writing,Yes,2025-10-18,Chemical Bonding,67,2025-11-11,80,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Social Studies,Literature Review,Yes,2025-11-09,Grammar Rules,46,2025-11-06,98,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Social Studies,Hindi Grammar Practice,Yes,2025-10-28,Geometry Theorems,64,2025-10-22,93,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Mathematics,Science Lab Report,No,Not Submitted,Grammar Rules,84,2025-11-08,96,2025-11-12 20:26:32
+1035,Dhruv Kumar,Grade 7,A,East,Social Studies,History Project,Yes,2025-10-29,Sentence Formation,71,2025-10-25,81,2025-11-12 20:26:32
+1036,Isha Singh,Grade 6,C,West,Hindi,History Project,Yes,2025-10-24,Sentence Formation,64,2025-11-09,82,2025-11-12 20:26:32
+1036,Isha Singh,Grade 6,C,West,English,Literature Review,Yes,2025-11-05,Chemical Bonding,94,2025-11-03,83,2025-11-12 20:26:32
+1036,Isha Singh,Grade 6,C,West,Science,Geography Map Work,Yes,2025-10-27,Human Body Systems,53,2025-10-18,92,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,Hindi,Hindi Story Writing,Yes,2025-10-29,Algebra Basics,49,2025-10-22,93,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,Science,Literature Review,Yes,2025-10-22,Plant Biology,70,2025-11-10,85,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,Mathematics,English Creative Writing,No,Not Submitted,Sentence Formation,68,2025-11-06,88,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,English,Hindi Grammar Practice,Yes,2025-10-30,Medieval Period,Not Taken,2025-10-23,98,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,Science,Hindi Grammar Practice,Yes,2025-11-06,Cell Biology,52,2025-10-09,91,2025-11-12 20:26:32
+1037,Maya Patel,Grade 10,C,North,Science,Social Studies Research,No,Not Submitted,Geometry Theorems,97,2025-10-01,79,2025-11-12 20:26:32
+1038,Nisha Reddy,Grade 6,B,East,Hindi,English Essay Writing,Yes,2025-10-18,Poetry Analysis,56,2025-10-02,90,2025-11-12 20:26:32
+1038,Nisha Reddy,Grade 6,B,East,Social Studies,English Creative Writing,Yes,2025-10-24,Sentence Formation,81,2025-10-01,95,2025-11-12 20:26:32
+1038,Nisha Reddy,Grade 6,B,East,Hindi,Geography Map Work,No,Not Submitted,Statistics,73,2025-11-07,90,2025-11-12 20:26:32
+1038,Nisha Reddy,Grade 6,B,East,English,Math Problem Solving,Yes,2025-11-03,Periodic Table,Not Taken,2025-10-10,77,2025-11-12 20:26:32
+1039,Priya Agarwal,Grade 9,D,North,Social Studies,Geography Map Work,No,Not Submitted,Cell Biology,99,2025-11-06,94,2025-11-12 20:26:32
+1039,Priya Agarwal,Grade 9,D,North,Social Studies,Biology Diagrams,Yes,2025-10-24,Medieval Period,92,2025-11-09,89,2025-11-12 20:26:32
+1039,Priya Agarwal,Grade 9,D,North,English,Math Problem Solving,Yes,2025-10-23,Sentence Formation,48,2025-10-14,78,2025-11-12 20:26:32
+1040,Sakshi Joshi,Grade 6,B,North,English,Science Experiment,Yes,2025-10-28,Medieval Period,55,2025-10-19,86,2025-11-12 20:26:32
+1040,Sakshi Joshi,Grade 6,B,North,English,Physics Numerical Problems,Yes,2025-11-01,Statistics,95,2025-10-02,95,2025-11-12 20:26:32
+1040,Sakshi Joshi,Grade 6,B,North,Science,Science Lab Report,Yes,2025-10-25,Statistics,61,2025-09-30,94,2025-11-12 20:26:32
+1040,Sakshi Joshi,Grade 6,B,North,Hindi,Geography Map Work,Yes,2025-10-21,Grammar Rules,64,2025-10-01,97,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,Mathematics,Physics Numerical Problems,Yes,2025-11-01,Modern History,89,2025-09-29,91,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,Science,Math Problem Solving,Yes,2025-10-26,Geometry Theorems,Not Taken,2025-10-23,80,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,English,Geography Map Work,No,Not Submitted,Sentence Formation,53,2025-11-02,77,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,English,Hindi Story Writing,No,Not Submitted,Medieval Period,98,2025-10-09,76,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,Social Studies,Social Studies Research,No,Not Submitted,Grammar Rules,54,2025-11-01,80,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,Science,English Creative Writing,No,Not Submitted,Human Body Systems,71,2025-10-19,96,2025-11-12 20:26:32
+1041,Advaith Verma,Grade 7,A,East,English,Chemistry Reactions,Yes,2025-10-18,Human Body Systems,59,2025-10-08,82,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,Science,Chemistry Reactions,Yes,2025-11-02,Poetry Analysis,78,2025-10-16,80,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,Social Studies,English Creative Writing,Yes,2025-10-15,Chemical Bonding,Not Taken,2025-10-12,86,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,English,Social Studies Research,Yes,2025-10-15,Medieval Period,63,2025-11-06,80,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,English,Chemistry Reactions,No,Not Submitted,Grammar Rules,50,2025-10-28,89,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,English,Social Studies Research,Yes,2025-11-10,Plant Biology,60,2025-10-18,77,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,Science,Hindi Grammar Practice,Yes,2025-10-13,Cell Biology,86,2025-10-21,79,2025-11-12 20:26:32
+1042,Karan Yadav,Grade 9,B,East,Social Studies,Math Chapter 5 Exercises,Yes,2025-10-16,Sentence Formation,53,2025-10-12,89,2025-11-12 20:26:32
+1043,Rohan Mehta,Grade 6,A,North,Mathematics,Hindi Grammar Practice,No,Not Submitted,Medieval Period,83,2025-10-09,88,2025-11-12 20:26:32
+1043,Rohan Mehta,Grade 6,A,North,Social Studies,English Creative Writing,Yes,2025-11-02,Cell Biology,Not Taken,2025-10-16,95,2025-11-12 20:26:32
+1043,Rohan Mehta,Grade 6,A,North,Social Studies,Chemistry Reactions,Yes,2025-10-16,Environmental Science,79,2025-11-10,95,2025-11-12 20:26:32
+1043,Rohan Mehta,Grade 6,A,North,Social Studies,Literature Review,Yes,2025-11-07,Chemical Bonding,84,2025-10-20,82,2025-11-12 20:26:32
+1043,Rohan Mehta,Grade 6,A,North,Social Studies,Physics Numerical Problems,Yes,2025-10-21,Cell Biology,68,2025-11-07,91,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Science,Math Chapter 5 Exercises,Yes,2025-10-31,Chemical Bonding,67,2025-11-07,86,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Mathematics,Science Experiment,Yes,2025-11-08,Poetry Analysis,93,2025-10-21,79,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Hindi,Geography Map Work,Yes,2025-10-16,Statistics,94,2025-09-29,89,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Science,Math Problem Solving,Yes,2025-11-07,Cell Biology,74,2025-11-09,84,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Hindi,Math Chapter 5 Exercises,No,Not Submitted,Environmental Science,Not Taken,2025-10-23,91,2025-11-12 20:26:32
+1044,Tanvi Shah,Grade 10,A,West,Mathematics,Hindi Story Writing,Yes,2025-11-03,Algebra Basics,57,2025-10-24,86,2025-11-12 20:26:32
+1045,Urvashi Malhotra,Grade 8,C,North,Hindi,Physics Numerical Problems,No,Not Submitted,Human Body Systems,69,2025-10-21,80,2025-11-12 20:26:32
+1045,Urvashi Malhotra,Grade 8,C,North,Hindi,Science Experiment,Yes,2025-10-13,Poetry Analysis,96,2025-11-06,98,2025-11-12 20:26:32
+1045,Urvashi Malhotra,Grade 8,C,North,English,Science Lab Report,Yes,2025-10-16,Grammar Rules,65,2025-11-05,77,2025-11-12 20:26:32
+1045,Urvashi Malhotra,Grade 8,C,North,English,Math Problem Solving,Yes,2025-10-28,Periodic Table,55,2025-09-28,89,2025-11-12 20:26:32
+1045,Urvashi Malhotra,Grade 8,C,North,Mathematics,Chemistry Reactions,Yes,2025-10-15,Environmental Science,72,2025-10-25,95,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Mathematics,English Creative Writing,Yes,2025-11-06,Algebra Basics,83,2025-09-29,89,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Social Studies,English Essay Writing,Yes,2025-10-18,Statistics,69,2025-10-06,76,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Social Studies,English Essay Writing,Yes,2025-10-31,Geometry Theorems,49,2025-10-06,79,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Science,Geography Map Work,Yes,2025-10-22,Chemical Bonding,52,2025-11-10,98,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Hindi,Chemistry Reactions,Yes,2025-10-13,Medieval Period,94,2025-10-26,97,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,Science,Hindi Grammar Practice,No,Not Submitted,Chemical Bonding,76,2025-10-30,78,2025-11-12 20:26:32
+1046,Varun Sinha,Grade 6,D,East,English,Hindi Story Writing,Yes,2025-11-06,Environmental Science,50,2025-09-29,85,2025-11-12 20:26:32
+1047,Harsh Kapoor,Grade 6,C,East,Mathematics,Science Experiment,Yes,2025-10-20,Statistics,68,2025-10-10,82,2025-11-12 20:26:32
+1047,Harsh Kapoor,Grade 6,C,East,Social Studies,Hindi Grammar Practice,No,Not Submitted,Ancient History,46,2025-10-19,92,2025-11-12 20:26:32
+1047,Harsh Kapoor,Grade 6,C,East,Hindi,Geography Map Work,Yes,2025-10-25,Grammar Rules,50,2025-11-07,84,2025-11-12 20:26:32
+1047,Harsh Kapoor,Grade 6,C,East,Science,Science Experiment,Yes,2025-10-26,Plant Biology,97,2025-10-06,77,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,Science,Math Problem Solving,Yes,2025-11-07,Environmental Science,80,2025-10-02,93,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,Social Studies,English Creative Writing,No,Not Submitted,Plant Biology,100,2025-11-08,78,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,English,English Essay Writing,Yes,2025-11-06,Geometry Theorems,59,2025-10-20,91,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,English,Hindi Story Writing,Yes,2025-11-05,Statistics,62,2025-11-03,95,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,Social Studies,Literature Review,Yes,2025-10-26,Statistics,82,2025-11-02,80,2025-11-12 20:26:32
+1048,Manvi Bansal,Grade 8,A,West,Mathematics,Science Experiment,No,Not Submitted,Geometry Theorems,81,2025-11-09,75,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,English,Physics Numerical Problems,Yes,2025-11-11,Sentence Formation,79,2025-10-24,95,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,Mathematics,Chemistry Reactions,Yes,2025-10-17,Statistics,74,2025-11-07,97,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,English,English Essay Writing,Yes,2025-10-27,Sentence Formation,83,2025-11-02,85,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,Social Studies,Science Experiment,No,Not Submitted,Geometry Theorems,53,2025-10-19,91,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,Mathematics,Science Lab Report,Yes,2025-10-28,Cell Biology,60,2025-11-02,78,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,Social Studies,History Project,No,Not Submitted,Modern History,60,2025-11-01,85,2025-11-12 20:26:32
+1049,Nidhi Saxena,Grade 6,C,South,English,Science Experiment,Yes,2025-10-18,Grammar Rules,77,2025-10-13,90,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Hindi,Biology Diagrams,Yes,2025-11-04,Ancient History,48,2025-11-08,84,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Mathematics,Literature Review,No,Not Submitted,Statistics,63,2025-10-08,75,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Hindi,Physics Numerical Problems,Yes,2025-11-03,Human Body Systems,70,2025-10-19,76,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Hindi,Math Chapter 5 Exercises,Yes,2025-11-05,Geometry Theorems,49,2025-10-18,91,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Hindi,English Creative Writing,Yes,2025-10-16,Periodic Table,52,2025-11-03,78,2025-11-12 20:26:32
+1050,Ojas Bhardwaj,Grade 9,A,North,Social Studies,Geography Map Work,No,Not Submitted,Geometry Theorems,68,2025-11-02,81,2025-11-12 20:26:32

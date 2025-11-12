@@ -1,0 +1,139 @@
+{
+  "super_admin": {
+    "username": "super_admin",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "full_name": "Super Administrator",
+    "email": "super@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "super_admin",
+      "regions": null,
+      "grades": null,
+      "classes": null,
+      "subjects": null,
+      "can_view_sensitive_data": true,
+      "can_export_data": true
+    }
+  },
+  "north_admin": {
+    "username": "north_admin",
+    "password_hash": "e5a061c5727ab170ace1a175273cfa9f973f809a8dc3b5104dee91fb35c91855",
+    "full_name": "North Region Administrator",
+    "email": "north@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "region_admin",
+      "regions": [
+        "North"
+      ],
+      "grades": null,
+      "classes": null,
+      "subjects": null,
+      "can_view_sensitive_data": true,
+      "can_export_data": true
+    }
+  },
+  "south_admin": {
+    "username": "south_admin",
+    "password_hash": "2d4d6e4bf44f26816c9631a5453277e9618085060f6283d2a0bd3ab101fb0ba2",
+    "full_name": "South Region Administrator",
+    "email": "south@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "region_admin",
+      "regions": [
+        "South"
+      ],
+      "grades": null,
+      "classes": null,
+      "subjects": null,
+      "can_view_sensitive_data": true,
+      "can_export_data": false
+    }
+  },
+  "grade89_admin": {
+    "username": "grade89_admin",
+    "password_hash": "e9b10e8d95d165295e7b3ac8a8c88f9031f44c9d44c1e41084bc57334f350550",
+    "full_name": "Grade 8-9 Administrator",
+    "email": "grade89@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "grade_admin",
+      "regions": null,
+      "grades": [
+        "Grade 8",
+        "Grade 9"
+      ],
+      "classes": null,
+      "subjects": null,
+      "can_view_sensitive_data": false,
+      "can_export_data": false
+    }
+  },
+  "classab_admin": {
+    "username": "classab_admin",
+    "password_hash": "57532c1bb37dcc8f1f9c86501590f50bcae0825fdd22a6a88605a046be7d43e3",
+    "full_name": "Class A-B Administrator",
+    "email": "classab@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "class_admin",
+      "regions": null,
+      "grades": null,
+      "classes": [
+        "A",
+        "B"
+      ],
+      "subjects": null,
+      "can_view_sensitive_data": false,
+      "can_export_data": false
+    }
+  },
+  "mathsci_admin": {
+    "username": "mathsci_admin",
+    "password_hash": "b49f1e3a4f5b2bcb6406f0eef44b7866b69f8c09581fb247115bac604a2a78b3",
+    "full_name": "Math & Science Administrator",
+    "email": "mathsci@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "subject_admin",
+      "regions": null,
+      "grades": null,
+      "classes": null,
+      "subjects": [
+        "Mathematics",
+        "Science"
+      ],
+      "can_view_sensitive_data": false,
+      "can_export_data": false
+    }
+  },
+  "east67_admin": {
+    "username": "east67_admin",
+    "password_hash": "354fd0a46cb1b95e66b0b52d48e41f3a624d9967799a916efa4f09f929679ff8",
+    "full_name": "East Region Grade 6-7 Administrator",
+    "email": "east67@dumroo.ai",
+    "is_active": true,
+    "created_date": "2025-11-12",
+    "permissions": {
+      "access_level": "region_admin",
+      "regions": [
+        "East"
+      ],
+      "grades": [
+        "Grade 6",
+        "Grade 7"
+      ],
+      "classes": null,
+      "subjects": null,
+      "can_view_sensitive_data": false,
+      "can_export_data": true
+    }
+  }
+}

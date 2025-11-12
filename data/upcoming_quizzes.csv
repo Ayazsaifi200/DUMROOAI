@@ -1,0 +1,55 @@
+quiz_id,grade,class_section,subject,topic,scheduled_date,duration_minutes,total_marks,created_date
+5001,Grade 6,A,Mathematics,Algebra Basics,2025-11-21,30,25,2025-11-12
+5002,Grade 6,A,English,Poetry Analysis,2025-11-24,45,50,2025-11-12
+5003,Grade 6,A,Social Studies,Environmental Science,2025-11-15,60,25,2025-11-12
+5004,Grade 6,B,English,Grammar Rules,2025-11-22,45,30,2025-11-12
+5005,Grade 6,B,English,Medieval Period,2025-11-22,60,50,2025-11-12
+5006,Grade 6,B,Social Studies,Chemical Bonding,2025-11-24,45,20,2025-11-12
+5007,Grade 6,C,Mathematics,Plant Biology,2025-11-18,60,30,2025-11-12
+5008,Grade 6,C,Mathematics,Periodic Table,2025-11-25,45,30,2025-11-12
+5009,Grade 6,C,Social Studies,Periodic Table,2025-11-23,30,20,2025-11-12
+5010,Grade 6,D,Social Studies,Statistics,2025-11-15,60,50,2025-11-12
+5011,Grade 6,D,Science,Algebra Basics,2025-11-15,60,20,2025-11-12
+5012,Grade 6,D,Mathematics,Sentence Formation,2025-11-16,45,50,2025-11-12
+5013,Grade 7,A,Science,Plant Biology,2025-11-19,60,50,2025-11-12
+5014,Grade 7,A,Mathematics,Human Body Systems,2025-11-26,30,25,2025-11-12
+5015,Grade 7,B,Hindi,Medieval Period,2025-11-23,45,30,2025-11-12
+5016,Grade 7,B,Hindi,Environmental Science,2025-11-15,60,30,2025-11-12
+5017,Grade 7,B,English,Statistics,2025-11-21,60,30,2025-11-12
+5018,Grade 7,C,Science,Chemical Bonding,2025-11-16,60,30,2025-11-12
+5019,Grade 7,C,English,Poetry Analysis,2025-11-16,45,25,2025-11-12
+5020,Grade 7,C,Hindi,Geometry Theorems,2025-11-24,45,30,2025-11-12
+5021,Grade 7,D,Mathematics,Periodic Table,2025-11-17,60,50,2025-11-12
+5022,Grade 7,D,English,Poetry Analysis,2025-11-19,30,30,2025-11-12
+5023,Grade 7,D,English,Human Body Systems,2025-11-13,30,30,2025-11-12
+5024,Grade 8,A,English,Human Body Systems,2025-11-23,45,25,2025-11-12
+5025,Grade 8,A,Social Studies,Chemical Bonding,2025-11-16,60,30,2025-11-12
+5026,Grade 8,A,Mathematics,Periodic Table,2025-11-15,60,25,2025-11-12
+5027,Grade 8,B,Social Studies,Ancient History,2025-11-13,60,25,2025-11-12
+5028,Grade 8,B,Mathematics,Plant Biology,2025-11-13,45,50,2025-11-12
+5029,Grade 8,C,Science,Algebra Basics,2025-11-23,60,25,2025-11-12
+5030,Grade 8,C,Hindi,Sentence Formation,2025-11-19,60,25,2025-11-12
+5031,Grade 8,D,English,Statistics,2025-11-18,30,20,2025-11-12
+5032,Grade 8,D,Social Studies,Ancient History,2025-11-23,60,20,2025-11-12
+5033,Grade 8,D,Hindi,Environmental Science,2025-11-15,30,20,2025-11-12
+5034,Grade 9,A,Hindi,Grammar Rules,2025-11-25,60,30,2025-11-12
+5035,Grade 9,A,Mathematics,Chemical Bonding,2025-11-13,60,20,2025-11-12
+5036,Grade 9,A,English,Sentence Formation,2025-11-18,60,50,2025-11-12
+5037,Grade 9,B,Social Studies,Sentence Formation,2025-11-26,45,25,2025-11-12
+5038,Grade 9,B,Mathematics,Geometry Theorems,2025-11-25,30,50,2025-11-12
+5039,Grade 9,C,Science,Algebra Basics,2025-11-24,60,30,2025-11-12
+5040,Grade 9,C,English,Periodic Table,2025-11-25,60,25,2025-11-12
+5041,Grade 9,C,Social Studies,Modern History,2025-11-15,60,50,2025-11-12
+5042,Grade 9,D,English,Cell Biology,2025-11-21,45,20,2025-11-12
+5043,Grade 9,D,Science,Sentence Formation,2025-11-15,45,25,2025-11-12
+5044,Grade 9,D,English,Plant Biology,2025-11-13,30,50,2025-11-12
+5045,Grade 10,A,English,Periodic Table,2025-11-18,60,20,2025-11-12
+5046,Grade 10,A,English,Human Body Systems,2025-11-17,30,20,2025-11-12
+5047,Grade 10,A,Mathematics,Sentence Formation,2025-11-23,45,25,2025-11-12
+5048,Grade 10,B,Social Studies,Environmental Science,2025-11-23,60,30,2025-11-12
+5049,Grade 10,B,Mathematics,Statistics,2025-11-24,45,30,2025-11-12
+5050,Grade 10,B,Science,Ancient History,2025-11-22,30,50,2025-11-12
+5051,Grade 10,C,Social Studies,Geometry Theorems,2025-11-20,45,50,2025-11-12
+5052,Grade 10,C,Social Studies,Poetry Analysis,2025-11-25,60,25,2025-11-12
+5053,Grade 10,D,Social Studies,Modern History,2025-11-23,30,50,2025-11-12
+5054,Grade 10,D,English,Cell Biology,2025-11-21,60,20,2025-11-12
